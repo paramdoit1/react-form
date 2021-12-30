@@ -1,0 +1,49 @@
+label
+{
+  margin-left: 20px;
+  padding-left: 20px;
+  display: flex;
+  margin-top: 20px;
+}
+
+ input[type = "text"]
+ {
+  text-align: left;
+  display: block;
+  margin-left: 40px;
+  width: 200px;
+  height: 24px;
+}
+ input[type = "email"]
+{
+  text-align: left;
+  display: block;
+  margin-left: 40px;
+  width: 200px;
+  height: 24px;
+}
+.field-control {
+  margin-bottom: 20px;
+}
+.error {
+  margin-left: 40px;
+  color: red;
+}
+button {
+  margin-top: 20px;
+  margin-left: 80px; 
+  width: 100px;
+  background-color: lightskyblue;
+  color:navy;
+  font-weight: bold;
+}
+
+.header
+{
+  text-align: left;
+  margin-left: 100px;
+  color: darkblue;
+  font-weight: bold;
+  font-size: 20px;
+}
+
